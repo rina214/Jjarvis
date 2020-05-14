@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jjarvis.iml" filepath="$PROJECT_DIR$/Jjarvis.iml" group="Jjarvis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jjarvis.iml" filepath="$PROJECT_DIR$/.idea/Jjarvis.iml" group="Jjarvis" />
+      <module fileurl="file://$PROJECT_DIR$/app/Jjarvis-app.iml" filepath="$PROJECT_DIR$/app/Jjarvis-app.iml" group="Jjarvis/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Jjarvis/app" />
     </modules>
   </component>
